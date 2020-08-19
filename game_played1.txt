@@ -1,0 +1,9 @@
+Player 1 moves up with start coordinates [2, 0] and stop coordinates [1, 0]
+Player 2 captures player 1 with from coordinates [0, 1] and to coordinates [1, 0]
+Player 1 moves up with start coordinates [2, 1] and stop coordinates [1, 1]
+Player 2 captures player 1 with from coordinates [0, 2] and to coordinates [1, 1]
+Player 1 captures player 2 with from coordinates [2, 2] and to coordinates [1, 1]
+Player 2 captures player 1 with from coordinates [0, 0] and to coordinates [1, 1]
+###################################
+#### Player 1 has won the game ####
+###################################
