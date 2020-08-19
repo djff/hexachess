@@ -1,4 +1,4 @@
-# Overview of the resit project
+# Overview of the project
 
 
 The inspiration for this project is heavily inspired by the following video. Watch it, then re-watch it, and make sure you get the ideas behind it before moving on to the rest of the instructions: [hexachess video](https://www.youtube.com/watch?v=sw7UAZNgGg8)
