@@ -1,8 +1,5 @@
 # Overview of the resit project
 
-Welcome to the resit for Programming 1. This will test you over 3-4 weeks on your basic python skills, and hopefully will culminate into a fun project.
-
-To remain consistent, the theme of the project is Hexachess, same as the final project in Programming 2. For most of you, this should be familiar.
 
 The inspiration for this project is heavily inspired by the following video. Watch it, then re-watch it, and make sure you get the ideas behind it before moving on to the rest of the instructions: [hexachess video](https://www.youtube.com/watch?v=sw7UAZNgGg8)
 
